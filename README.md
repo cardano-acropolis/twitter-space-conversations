@@ -109,3 +109,6 @@ Notes:
        pseudonymous publishing would work (apropos of Charles Hoskinson)
     3. We should speak with FlowJo at BD. 
 
+## Decentralised Autonomous Organization (DAO) Models
+
+ 1. Compare against business models.
