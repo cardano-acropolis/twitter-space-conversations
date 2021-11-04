@@ -112,3 +112,4 @@ Notes:
 ## Decentralised Autonomous Organization (DAO) Models
 
  1. Compare against business models.
+ 2. Found excellent articles on dows in general.
